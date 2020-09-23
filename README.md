@@ -14,3 +14,5 @@
 - generators
 - error handling
 - modules
+- fileIO
+- regex
