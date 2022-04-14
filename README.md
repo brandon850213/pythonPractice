@@ -16,3 +16,8 @@
 - modules
 - fileIO
 - regex
+
+### Others
+
+- automation/testing
+- scraping
