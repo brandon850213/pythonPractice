@@ -21,3 +21,5 @@
 
 - automation/testing
 - scraping
+- machine leanring
+- data science
