@@ -19,6 +19,7 @@
 
 ### Others
 
+- scripting
 - automation/testing
 - scraping
 - machine leanring
